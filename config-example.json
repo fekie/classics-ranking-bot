@@ -1,0 +1,12 @@
+{
+    "group_id": 3489210,
+    "roblosecurity": "xxx",
+    "scanned_ranks": ["Pending"],
+    "rank_year_pairs": {
+        "Relics": [2005, 2006, 2007, 2008],
+        "Antique": [2009, 2010, 2011],
+        "Vintage": [2012, 2013, 2014],
+        "Retro": [2015, 2016, 2017],
+        "Classics": [2018, 2019, 2020, 2021, 2022, 2023]
+    }
+}
