@@ -8,4 +8,6 @@ edition = "2021"
 [dependencies]
 serde = {version="1.0.136", features=["derive"]}
 tokio = { version = "1.27.0", features = ["full"] }
-safelog = "0.3.0"
+safelog = {version="0.3.0", features=["serde"]}
+serde_json = "1.0.94"
+thiserror = "1.0.40"
