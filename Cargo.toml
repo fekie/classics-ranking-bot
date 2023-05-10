@@ -1,7 +1,14 @@
 [package]
-name = "classics-ranking-bot"
-version = "0.1.0"
+authors = ["fekie <fekiewekie@gmail.com>"]
+categories = []
+description = "An on-command ranking bot for the -Classics- Roblox group https://www.roblox.com/groups/3489210/Classics"
 edition = "2021"
+keywords = ["roblox", "roblox-ranking-bot"]
+license = "MIT"
+name = "classics-ranking-bot"
+readme = "README.md"
+repository = "https://github.com/Chloe-Woahie/classics-ranking-bot"
+version = "1.0.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
