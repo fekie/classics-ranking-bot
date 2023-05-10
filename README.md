@@ -1,8 +1,5 @@
 # classics-ranking-bot
-An on-command ranking bot for [-Classics-](<https://www.roblox.com/groups/3489210/Classics>).
-
-# Description
-This program is a bot that ranks users in [-Classics-](https://www.roblox.com/groups/3489210/Classics) based on their account age. 
+This program is an on-command ranking bot that ranks users in [-Classics-](https://www.roblox.com/groups/3489210/Classics) based on their account age. 
 Ranking rules and info can be found [here](https://devforum.roblox.com/t/classics-rules-and-info/477028).
 
 # Usage
