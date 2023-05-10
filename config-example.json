@@ -3,7 +3,7 @@
     "roblosecurity": "xxx",
     "scanned_roles": ["Pending"],
     "role_year_pairs": {
-        "Relics": [2005, 2006, 2007, 2008],
+        "Relic": [2005, 2006, 2007, 2008],
         "Antique": [2009, 2010, 2011],
         "Vintage": [2012, 2013, 2014],
         "Retro": [2015, 2016, 2017]
