@@ -11,7 +11,7 @@ Ranking rules and info can be found [here](https://devforum.roblox.com/t/classic
     * `scanned_roles` - The roles to scan users you want to rank from.
     * `role_year_pairs` - A map where the keys are the roles, and the values are the account age years that the role corresponds to.
     * `wildcard_role` - The role to give users that don't have an account age that corresponds to a role.
-4. Run the executable with ```$ classics-ranking-bot.exe config.json```.
+4. Inside a terminal window, run the executable with ```classics-ranking-bot.exe config.json```.
 
 # License 
 MIT License
